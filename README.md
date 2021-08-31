@@ -5,6 +5,8 @@
 	* 当前约800Parts
 	* 预计需要2000Parts
 	* 2021年底或2022年初能出
+	* 当前进度渲染图：
+	<img src="https://github.com/isrecalpear/LEGO-Model/blob/main/TraceWind_Renge/TraceWind_Renge.png" width="25%" alt="TraceWind_Renge">
 2. 风痕的mc皮肤模型
 ## 已完成
 * 没有
