@@ -8,6 +8,7 @@
 	* 2021年底或2022年初能出
 	* 当前进度渲染图：
 	<img src="https://github.com/isrecalpear/LEGO-Model/blob/main/TraceWind_Renge/TraceWind_Renge.png" width="25%" alt="TraceWind_Renge">
+
 	* 尾巴目前准备做成可动结构，但是有一点复杂，还在研究。渲染图：
 	<img src="https://github.com/isrecalpear/LEGO-Model/blob/main/TraceWind_Renge/TraceWind_Renge_Tail.png" width="25%" alt="TraceWind_Renge_Tail">
 2. 风痕的mc皮肤模型
